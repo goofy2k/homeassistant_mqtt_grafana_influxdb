@@ -21,3 +21,6 @@ This bridge function could possibly be implemented in Nodered.
 
 
 Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md
+
+
+Grafana contains a tutorial: https://grafana.com/tutorials/grafana-fundamentals/?utm_source=grafana_gettingstarted 
