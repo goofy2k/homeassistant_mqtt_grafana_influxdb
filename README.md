@@ -20,7 +20,7 @@ The blog uses an MQTT "bridge" written in python. This bridge subscribes to MQTT
 This bridge function could possibly be implemented in Nodered.
 
 
-Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md
+Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md (docs in the Docker repository is not complete due to space limitations!)
 
 
 Grafana contains a tutorial: https://grafana.com/tutorials/grafana-fundamentals/?utm_source=grafana_gettingstarted 
