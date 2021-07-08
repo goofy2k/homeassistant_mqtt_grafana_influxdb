@@ -18,3 +18,6 @@
  
 The blog uses an MQTT "bridge" written in python. This bridge subscribes to MQTT messages sent by the ESP devices and sends the data to the influxdb database.
 This bridge function could possibly be implemented in Nodered.
+
+
+Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md
