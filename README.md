@@ -2,9 +2,12 @@
  
  Walkthrough of: https://diyi0t.com/home-assistant-mqtt-tutorial/
  
+ FOCUS ON MQTT first !   Your main goal is to have remote ESP devices!
+ Later, later, later have a look at influx db / grafana.  This can also be a Nodered project!
+ 
  For Docker:
  
- Installation of gafana and influxdb via Docker:  https://diyi0t.com/home-assistant-raspberry-pi-docker-setup/
+ Installation of grafana and influxdb via Docker:  https://diyi0t.com/home-assistant-raspberry-pi-docker-setup/
  
  Followed by: https://diyi0t.com/visualize-mqtt-data-with-influxdb-and-grafana/
  
