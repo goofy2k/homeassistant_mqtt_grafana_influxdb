@@ -16,11 +16,16 @@
  - by editing config file(s) in external volume?
  - other?
  
+ 
+ Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md (docs in the Docker repository is not complete due to space limitations!)
+
+"InfluxDB can be configured using a mix of a config file, environment variables, and CLI options. To mount a configuration file and use it with the server, you can use this command to generate the default configuration file: ....."
+ 
+ 
 The blog uses an MQTT "bridge" written in python. This bridge subscribes to MQTT messages sent by the ESP devices and sends the data to the influxdb database.
 This bridge function could possibly be implemented in Nodered.
 
 
-Influx Docker docs: https://github.com/docker-library/docs/blob/master/influxdb/README.md (docs in the Docker repository is not complete due to space limitations!)
 
 
 Grafana contains a tutorial: https://grafana.com/tutorials/grafana-fundamentals/?utm_source=grafana_gettingstarted 
