@@ -34,3 +34,7 @@ This bridge function could possibly be implemented in Nodered.
 Grafana contains a tutorial: https://grafana.com/tutorials/grafana-fundamentals/?utm_source=grafana_gettingstarted 
 
 Investigate difference in using sensor in mqtt enabled device code and mqtt settings in ha configuration file.
+
+Make an inventory of mqtt topics used by ESPHome and/or Homeassistant. Have a look in the log of the firmware uploader an in Homeassistant settings. 
+
+ 
